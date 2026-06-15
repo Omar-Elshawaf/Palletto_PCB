@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetGreen_LED_12V_1 Pin=Green_LED_12V-1
+Added Pin To Net: NetName=NetGreen_LED_12V_1 Pin=R11-2
+Added Net: Name=NetGreen_LED_12V_1
+Added Member To Class: ClassName=Sensors_Schematic Member=Component 12V 12V_IN

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=3.3 V Pin=J5-1
+Removed Member From Class: ClassName=Sensors_Schematic Member=J5
+Added Component: Designator=J1(61302011821)
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3 V Pin=J1-1
+Add Pin To Net: Unknown Pin: Pin J1-21
+Added Member To Class: ClassName=Sensors_Schematic Member=Component J1 1

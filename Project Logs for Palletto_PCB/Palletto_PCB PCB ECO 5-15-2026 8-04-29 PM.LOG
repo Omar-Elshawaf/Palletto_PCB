@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Lifting_PWM_Pin Pin=H-Bridge_lifitng-1
+Removed Pin From Net: NetName=Lifting_DIR_Pin Pin=H-Bridge_lifitng-2
+Added Pin To Net: NetName=Lifting_DIR_Pin Pin=H-Bridge_lifitng-1
+Added Pin To Net: NetName=Lifting_PWM_Pin Pin=H-Bridge_lifitng-2

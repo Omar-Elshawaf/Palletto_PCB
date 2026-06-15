@@ -1,0 +1,89 @@
+Removed Pin From Net: NetName=GND Pin=Sensors_NUC_H7_2-157
+Removed Pin From Net: NetName=GND Pin=TMC2-1
+Removed Pin From Net: NetName=GND Pin=TMC2-7
+Removed Member From Class: ClassName=STM32H755_Breakout_Schematic Member=Sensors_NUC_H7_2
+Removed Member From Class: ClassName=Sensors_Schematic Member=TMC2
+Added Component: Designator=C1(FP-RAD-TH-D_6_3_0_5-L_11-MFG)
+Add component (AddParameter): Name = "Capacitance"; Value = "100uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = "130mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.5inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "130mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Diameter"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "11mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life (Hours)"; Value = "2000Hour"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Polar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "455mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "FM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=Motor_1_A_Phase(CONN-TH_P5.00_KF126-5.0-2P)
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474900"; VariantName = "[No Variations]"
+Added Component: Designator=Motor_1_B_Phase(CONN-TH_P5.00_KF126-5.0-2P)
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474900"; VariantName = "[No Variations]"
+Added Component: Designator=Motor_2_A_Phase(CONN-TH_P5.00_KF126-5.0-2P)
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474900"; VariantName = "[No Variations]"
+Added Component: Designator=Motor_2_B_Phase(CONN-TH_P5.00_KF126-5.0-2P)
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474900"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=3.3 V Pin=TMC1-2
+Added Pin To Net: NetName=12V Pin=C1-2
+Added Pin To Net: NetName=12V Pin=TMC1-8
+Added Net: Name=12V
+Added Pin To Net: NetName=NetMotor_1_A_Phase_1 Pin=Motor_1_A_Phase-1
+Added Pin To Net: NetName=NetMotor_1_A_Phase_1 Pin=TMC1-5
+Added Net: Name=NetMotor_1_A_Phase_1
+Added Pin To Net: NetName=NetMotor_1_A_Phase_2 Pin=Motor_1_A_Phase-2
+Added Pin To Net: NetName=NetMotor_1_A_Phase_2 Pin=Motor_2_A_Phase-1
+Added Net: Name=NetMotor_1_A_Phase_2
+Added Pin To Net: NetName=NetMotor_1_B_Phase_1 Pin=Motor_1_B_Phase-1
+Added Pin To Net: NetName=NetMotor_1_B_Phase_1 Pin=TMC1-4
+Added Net: Name=NetMotor_1_B_Phase_1
+Added Pin To Net: NetName=NetMotor_1_B_Phase_2 Pin=Motor_1_B_Phase-2
+Added Pin To Net: NetName=NetMotor_1_B_Phase_2 Pin=Motor_2_B_Phase-1
+Added Net: Name=NetMotor_1_B_Phase_2
+Added Pin To Net: NetName=NetMotor_2_A_Phase_2 Pin=Motor_2_A_Phase-2
+Added Pin To Net: NetName=NetMotor_2_A_Phase_2 Pin=TMC1-6
+Added Net: Name=NetMotor_2_A_Phase_2
+Added Pin To Net: NetName=NetMotor_2_B_Phase_2 Pin=Motor_2_B_Phase-2
+Added Pin To Net: NetName=NetMotor_2_B_Phase_2 Pin=TMC1-3
+Added Net: Name=NetMotor_2_B_Phase_2
+Added Member To Class: ClassName=Sensors_Schematic Member=Component C1 EEUFM1E101B
+Added Member To Class: ClassName=Sensors_Schematic Member=Component Motor_1_A_Phase
+Added Member To Class: ClassName=Sensors_Schematic Member=Component Motor_1_B_Phase
+Added Member To Class: ClassName=Sensors_Schematic Member=Component Motor_2_A_Phase
+Added Member To Class: ClassName=Sensors_Schematic Member=Component Motor_2_B_Phase

@@ -1,0 +1,13 @@
+Add Component: Footprint Not Found CURRENT-SENSOR-ACS712#IC
+Added Component: Designator=MPU6050(COMM-TH_MPU6050-TH)
+Add component (AddParameter): Name = "Contributor"; Value = "lcsc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "null"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "MPU6050-TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "MPU6050-TH COPY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C9900132629"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found COMM-TH_TMC2209SILENTSTEPSTICK
+Add Class Member: Failed to add class member : Component CRR_SEN CURRENT-SENSOR-ACS712#IC
+Added Member To Class: ClassName=Sensors_Schematic Member=Component MPU6050 MPU6050-TH COPY
+Add Class Member: Failed to add class member : Component TMC TMC2209 Socket

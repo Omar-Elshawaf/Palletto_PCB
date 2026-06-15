@@ -1,0 +1,23 @@
+Added Component: Designator=J12(BU04_KIT)
+Added Component: Designator=J25(BU04_KIT_N)
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J12-2
+Add Pin To Net: Unknown Pin: Pin J12-3
+Add Pin To Net: Unknown Pin: Pin J12-7
+Add Pin To Net: Unknown Pin: Pin J12-8
+Add Pin To Net: Unknown Pin: Pin J12-19
+Add Pin To Net: Unknown Pin: Pin J12-20
+Add Pin To Net: Unknown Pin: Pin J12-21
+Add Pin To Net: Unknown Pin: Pin J12-26
+Add Pin To Net: Unknown Pin: Pin J12-27
+Add Pin To Net: Unknown Pin: Pin J12-28
+Add Pin To Net: Unknown Pin: Pin J12-34
+Add Pin To Net: Unknown Pin: Pin J12-35
+Add Class Member: Failed to add class member : Component J12 61302011821
+Added Member To Class: ClassName=Sensors_Schematic Member=Component J25 BU04

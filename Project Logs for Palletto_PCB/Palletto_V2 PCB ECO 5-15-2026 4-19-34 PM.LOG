@@ -1,0 +1,900 @@
+Added Component: Designator=3.3V_in(CONN-TH_P5.00_KF126-5.0-2P)
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474900"; VariantName = "[No Variations]"
+Added Component: Designator=3.3V_O/P_1(CONN-TH_P5.00_KF126-5.0-2P)
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474900"; VariantName = "[No Variations]"
+Added Component: Designator=3.3V_O/P(CONN-TH_3P-P5.00_KF126-5.0-3P)
+Add component (AddParameter): Name = "Contributor"; Value = "thulasikrishna"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474901"; VariantName = "[No Variations]"
+Added Component: Designator=5V(CONN-TH_P5.00_KF126-5.0-2P)
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474900"; VariantName = "[No Variations]"
+Added Component: Designator=Actuators-NUC-H7(NUCLEO-H7)
+Add component (AddParameter): Name = "Contributor"; Value = "zutawin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Display"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "NUCLEO-H755ZI-ZIO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DOLI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "100x"; VariantName = "[No Variations]"
+Added Component: Designator=Brake_Motor(CONN-TH_P5.00_KF126-5.0-2P)
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474900"; VariantName = "[No Variations]"
+Added Component: Designator=BRO_2(CONN-TH_3P-P5.00_KF126-5.0-3P)
+Add component (AddParameter): Name = "Contributor"; Value = "thulasikrishna"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474901"; VariantName = "[No Variations]"
+Added Component: Designator=BRO_3(CONN-TH_3P-P5.00_KF126-5.0-3P)
+Add component (AddParameter): Name = "Contributor"; Value = "thulasikrishna"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474901"; VariantName = "[No Variations]"
+Added Component: Designator=BRO_4(CONN-TH_3P-P5.00_KF126-5.0-3P)
+Add component (AddParameter): Name = "Contributor"; Value = "thulasikrishna"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474901"; VariantName = "[No Variations]"
+Added Component: Designator=BRO_5(CONN-TH_3P-P5.00_KF126-5.0-3P)
+Add component (AddParameter): Name = "Contributor"; Value = "thulasikrishna"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474901"; VariantName = "[No Variations]"
+Added Component: Designator=BRO_6(CONN-TH_3P-P5.00_KF126-5.0-3P)
+Add component (AddParameter): Name = "Contributor"; Value = "thulasikrishna"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474901"; VariantName = "[No Variations]"
+Added Component: Designator=BRO_7(CONN-TH_3P-P5.00_KF126-5.0-3P)
+Add component (AddParameter): Name = "Contributor"; Value = "thulasikrishna"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474901"; VariantName = "[No Variations]"
+Added Component: Designator=BRO_8(CONN-TH_3P-P5.00_KF126-5.0-3P)
+Add component (AddParameter): Name = "Contributor"; Value = "thulasikrishna"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474901"; VariantName = "[No Variations]"
+Added Component: Designator=BRO_9(CONN-TH_3P-P5.00_KF126-5.0-3P)
+Add component (AddParameter): Name = "Contributor"; Value = "thulasikrishna"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474901"; VariantName = "[No Variations]"
+Added Component: Designator=BRO_10(CONN-TH_3P-P5.00_KF126-5.0-3P)
+Add component (AddParameter): Name = "Contributor"; Value = "thulasikrishna"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474901"; VariantName = "[No Variations]"
+Added Component: Designator=BRO_11(CONN-TH_3P-P5.00_KF126-5.0-3P)
+Add component (AddParameter): Name = "Contributor"; Value = "thulasikrishna"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474901"; VariantName = "[No Variations]"
+Added Component: Designator=C1(FP-RAD-TH-D_6_3_0_5-L_11-MFG)
+Add component (AddParameter): Name = "Capacitance"; Value = "100uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = "130mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.5inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "130mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Diameter"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "11mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life (Hours)"; Value = "2000Hour"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Polar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "455mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "FM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=CANH/L0(CONN-TH_P5.00_KF126-5.0-2P)
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474900"; VariantName = "[No Variations]"
+Added Component: Designator=CANH/L_High_Level(CONN-TH_P5.00_KF126-5.0-2P)
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474900"; VariantName = "[No Variations]"
+Added Component: Designator=CANH/L_OD_1(CONN-TH_P5.00_KF126-5.0-2P)
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474900"; VariantName = "[No Variations]"
+Added Component: Designator=CANH/L_OD_2(CONN-TH_P5.00_KF126-5.0-2P)
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474900"; VariantName = "[No Variations]"
+Added Component: Designator=CRR_SEN(CURRENT-SENSOR-ACS712#IC)
+Add component (AddParameter): Name = "Contributor"; Value = "arenda1234"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "CURRENT-SENSOR-ACS712#IC"; VariantName = "[No Variations]"
+Added Component: Designator=DAC(CONN-TH_P5.00_KF126-5.0-2P)
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474900"; VariantName = "[No Variations]"
+Added Component: Designator=F1(FP-0PTF0078P-MFG)
+Add component (AddParameter): Name = "Ambient Temperature Range High"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ambient Temperature Range Low"; Value = "-30°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Fuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Littelfuse%20PDFs/PTF075_77_78.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Circuit Protection"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "Fuse Holders"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "unset"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "FUSE BLOCK CARTRIDGE PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fuse Current"; Value = "6.3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Littelfuse Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0PTF0078P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Description"; Value = "Fuse Holder 5X20MM Pitch 22/7 UL94V0 Open"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Fuses"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/0ptf0078p-littelfuse-13255855"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating Ac"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating Dc"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=F2(FP-0PTF0078P-MFG)
+Add component (AddParameter): Name = "Ambient Temperature Range High"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ambient Temperature Range Low"; Value = "-30°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Fuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Littelfuse%20PDFs/PTF075_77_78.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Circuit Protection"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "Fuse Holders"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "unset"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "FUSE BLOCK CARTRIDGE PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fuse Current"; Value = "6.3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Littelfuse Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0PTF0078P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Description"; Value = "Fuse Holder 5X20MM Pitch 22/7 UL94V0 Open"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Fuses"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/0ptf0078p-littelfuse-13255855"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating Ac"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating Dc"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=GND_O/P(CONN-TH_3P-P5.00_KF126-5.0-3P)
+Add component (AddParameter): Name = "Contributor"; Value = "thulasikrishna"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474901"; VariantName = "[No Variations]"
+Added Component: Designator=H-Bridge_lifitng(CONN-TH_3P-P5.00_KF126-5.0-3P)
+Add component (AddParameter): Name = "Contributor"; Value = "thulasikrishna"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474901"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 61302011821
+Added Component: Designator=LIMIT_SW1(CONN-TH_P5.00_KF126-5.0-2P)
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474900"; VariantName = "[No Variations]"
+Added Component: Designator=LIMIT_SW2(CONN-TH_P5.00_KF126-5.0-2P)
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474900"; VariantName = "[No Variations]"
+Added Component: Designator=LIMIT_SW3(CONN-TH_P5.00_KF126-5.0-2P)
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474900"; VariantName = "[No Variations]"
+Added Component: Designator=LIMIT_SW4(CONN-TH_P5.00_KF126-5.0-2P)
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474900"; VariantName = "[No Variations]"
+Added Component: Designator=MCP2551_1(DIP 8 PIN SOCKET)
+Add component (AddParameter): Name = "Contributor"; Value = "uniqengineeringworks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "8 PIN DIP SOCKET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Motor_1_A_Phase(CONN-TH_P5.00_KF126-5.0-2P)
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474900"; VariantName = "[No Variations]"
+Added Component: Designator=Motor_1_B_Phase(CONN-TH_P5.00_KF126-5.0-2P)
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474900"; VariantName = "[No Variations]"
+Added Component: Designator=Motor_2_A_Phase(CONN-TH_P5.00_KF126-5.0-2P)
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474900"; VariantName = "[No Variations]"
+Added Component: Designator=Motor_2_B_Phase(CONN-TH_P5.00_KF126-5.0-2P)
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474900"; VariantName = "[No Variations]"
+Added Component: Designator=Phases Encoder(CONN-TH_3P-P5.00_KF126-5.0-3P)
+Add component (AddParameter): Name = "Contributor"; Value = "thulasikrishna"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474901"; VariantName = "[No Variations]"
+Added Component: Designator=Power_Encoder(CONN-TH_P5.00_KF126-5.0-2P)
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474900"; VariantName = "[No Variations]"
+Added Component: Designator=R1(FP-MFR-12-MFG)
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Ammo Pack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "160mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "200V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "200V"; VariantName = "[No Variations]"
+Added Component: Designator=R2(1k)(FP-FMP100-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "Conformal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Metal Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "2.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "6.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8533210090, 8533210090"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Added Component: Designator=R3(FP-MFR-12-MFG)
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Ammo Pack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "160mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "200V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "200V"; VariantName = "[No Variations]"
+Added Component: Designator=R4(FP-MFR-12-MFG)
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Ammo Pack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "160mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "200V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "200V"; VariantName = "[No Variations]"
+Added Component: Designator=R5(FP-MFR-12-MFG)
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Ammo Pack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "160mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "200V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "200V"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 1X03
+Added Component: Designator=SW_Main_Power_3.3V(ESWI-EG1218_V)
+Add component (AddParameter): Name = "Case\Package"; Value = "SOT-23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.e-switch.ch/en/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.e-switch.com/system/asset/product_line/data_sheet/119/EG.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Oct-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dropout Voltage"; Value = "300 mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Input Voltage"; Value = "8 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Ouput Current"; Value = "150 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "250 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "4.3 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Output Voltage"; Value = "3.3 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "150 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "3.3 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin Through Hole Device, Body 11.6 x 4 mm, Pitch 2.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "EG1218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "250 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.8 mm"; VariantName = "[No Variations]"
+Added Component: Designator=SW_Main_Power_5V(ESWI-EG1218_V)
+Add component (AddParameter): Name = "Case\Package"; Value = "SOT-23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.e-switch.ch/en/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.e-switch.com/system/asset/product_line/data_sheet/119/EG.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Oct-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dropout Voltage"; Value = "300 mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Input Voltage"; Value = "8 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Ouput Current"; Value = "150 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "250 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "4.3 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Output Voltage"; Value = "3.3 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "150 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "3.3 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin Through Hole Device, Body 11.6 x 4 mm, Pitch 2.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "EG1218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "250 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.8 mm"; VariantName = "[No Variations]"
+Added Component: Designator=SW_Power_STMH7(ESWI-EG1218_V)
+Add component (AddParameter): Name = "Case\Package"; Value = "SOT-23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.e-switch.ch/en/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.e-switch.com/system/asset/product_line/data_sheet/119/EG.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Oct-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dropout Voltage"; Value = "300 mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Input Voltage"; Value = "8 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Ouput Current"; Value = "150 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "250 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "4.3 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Output Voltage"; Value = "3.3 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "150 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "3.3 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin Through Hole Device, Body 11.6 x 4 mm, Pitch 2.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "EG1218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "250 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.8 mm"; VariantName = "[No Variations]"
+Added Component: Designator=SW_Power_UWB(ESWI-EG1218_V)
+Add component (AddParameter): Name = "Case\Package"; Value = "SOT-23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.e-switch.ch/en/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.e-switch.com/system/asset/product_line/data_sheet/119/EG.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Oct-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dropout Voltage"; Value = "300 mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Input Voltage"; Value = "8 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Ouput Current"; Value = "150 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "250 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "4.3 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Output Voltage"; Value = "3.3 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "150 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "3.3 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin Through Hole Device, Body 11.6 x 4 mm, Pitch 2.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "EG1218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "250 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.8 mm"; VariantName = "[No Variations]"
+Added Component: Designator=SW_SPRD_TMC(ESWI-EG1218_V)
+Add component (AddParameter): Name = "Case\Package"; Value = "SOT-23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.e-switch.ch/en/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.e-switch.com/system/asset/product_line/data_sheet/119/EG.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Oct-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dropout Voltage"; Value = "300 mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Input Voltage"; Value = "8 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Ouput Current"; Value = "150 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "250 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "4.3 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Output Voltage"; Value = "3.3 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "150 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "3.3 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin Through Hole Device, Body 11.6 x 4 mm, Pitch 2.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "EG1218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "250 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.8 mm"; VariantName = "[No Variations]"
+Added Component: Designator=TMC1(COMM-TH_TMC2209SILENTSTEPSTICK)
+Add component (AddParameter): Name = "Contributor"; Value = "plcis"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TRINAMIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "TMC2209 Socket"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TMC2209 Socket"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C17375345"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found TCA9548A
+Added Component: Designator=VL BL(VL53L1X_BREAKOUT)
+Add component (AddParameter): Name = "Contributor"; Value = "freddyka"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "VL53L0X Time-of-Flight Distance Sensor VL53L0X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "VL53L1X_BREAKOUT COPY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VL BR(VL53L1X_BREAKOUT)
+Add component (AddParameter): Name = "Contributor"; Value = "freddyka"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "VL53L0X Time-of-Flight Distance Sensor VL53L0X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "VL53L1X_BREAKOUT COPY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VL FL(VL53L1X_BREAKOUT)
+Add component (AddParameter): Name = "Contributor"; Value = "freddyka"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "VL53L0X Time-of-Flight Distance Sensor VL53L0X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "VL53L1X_BREAKOUT COPY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VL FR(VL53L1X_BREAKOUT)
+Add component (AddParameter): Name = "Contributor"; Value = "freddyka"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "VL53L0X Time-of-Flight Distance Sensor VL53L0X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "VL53L1X_BREAKOUT COPY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3 V Pin=3.3V_O/P-1
+Added Pin To Net: NetName=3.3 V Pin=3.3V_O/P-2
+Added Pin To Net: NetName=3.3 V Pin=3.3V_O/P-3
+Added Pin To Net: NetName=3.3 V Pin=3.3V_O/P_1-1
+Added Pin To Net: NetName=3.3 V Pin=F1-1
+Added Pin To Net: NetName=3.3 V Pin=Phases Encoder-3
+Added Pin To Net: NetName=3.3 V Pin=R1-1
+Added Pin To Net: NetName=3.3 V Pin=R3-1
+Added Pin To Net: NetName=3.3 V Pin=R4-1
+Added Pin To Net: NetName=3.3 V Pin=R5-1
+Added Pin To Net: NetName=3.3 V Pin=SW_SPRD_TMC-3
+Added Pin To Net: NetName=3.3 V Pin=TMC1-2
+Added Pin To Net: NetName=3.3 V Pin=VL BL-6
+Added Pin To Net: NetName=3.3 V Pin=VL BR-6
+Added Pin To Net: NetName=3.3 V Pin=VL FL-6
+Added Pin To Net: NetName=3.3 V Pin=VL FR-6
+Added Net: Name=3.3 V
+Added Pin To Net: NetName=5V Pin=CRR_SEN-1
+Added Pin To Net: NetName=5V Pin=F2-1
+Added Pin To Net: NetName=5V Pin=MCP2551_1-3
+Added Pin To Net: NetName=5V Pin=Power_Encoder-1
+Added Pin To Net: NetName=5V Pin=SW_Power_STMH7-1
+Added Pin To Net: NetName=5V Pin=SW_Power_UWB-1
+Added Net: Name=5V
+Added Pin To Net: NetName=12V Pin=C1-2
+Added Pin To Net: NetName=12V Pin=TMC1-8
+Added Net: Name=12V
+Added Pin To Net: NetName=ADC_CURRENT_SENSOR Pin=Actuators-NUC-H7-161
+Added Pin To Net: NetName=ADC_CURRENT_SENSOR Pin=CRR_SEN-2
+Added Net: Name=ADC_CURRENT_SENSOR
+Added Pin To Net: NetName=CAN1_RX Pin=MCP2551_1-4
+Added Net: Name=CAN1_RX
+Added Pin To Net: NetName=CAN1_TX Pin=MCP2551_1-1
+Added Net: Name=CAN1_TX
+Added Pin To Net: NetName=DAC Pin=Actuators-NUC-H7-207
+Added Pin To Net: NetName=DAC Pin=DAC-1
+Added Net: Name=DAC
+Added Pin To Net: NetName=Encoder A Pin=Actuators-NUC-H7-239
+Added Pin To Net: NetName=Encoder A Pin=Phases Encoder-1
+Added Net: Name=Encoder A
+Added Pin To Net: NetName=Encoder B Pin=Actuators-NUC-H7-205
+Added Pin To Net: NetName=Encoder B Pin=Phases Encoder-2
+Added Net: Name=Encoder B
+Added Pin To Net: NetName=GND Pin=3.3V_in-2
+Added Pin To Net: NetName=GND Pin=3.3V_O/P_1-2
+Added Pin To Net: NetName=GND Pin=5V-2
+Added Pin To Net: NetName=GND Pin=Actuators-NUC-H7-155
+Added Pin To Net: NetName=GND Pin=Actuators-NUC-H7-157
+Added Pin To Net: NetName=GND Pin=Actuators-NUC-H7-172
+Added Pin To Net: NetName=GND Pin=Actuators-NUC-H7-183
+Added Pin To Net: NetName=GND Pin=Actuators-NUC-H7-198
+Added Pin To Net: NetName=GND Pin=Actuators-NUC-H7-215
+Added Pin To Net: NetName=GND Pin=Actuators-NUC-H7-232
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=CRR_SEN-3
+Added Pin To Net: NetName=GND Pin=DAC-2
+Added Pin To Net: NetName=GND Pin=GND_O/P-1
+Added Pin To Net: NetName=GND Pin=GND_O/P-2
+Added Pin To Net: NetName=GND Pin=GND_O/P-3
+Added Pin To Net: NetName=GND Pin=H-Bridge_lifitng-3
+Added Pin To Net: NetName=GND Pin=LIMIT_SW1-2
+Added Pin To Net: NetName=GND Pin=LIMIT_SW2-2
+Added Pin To Net: NetName=GND Pin=LIMIT_SW3-2
+Added Pin To Net: NetName=GND Pin=LIMIT_SW4-2
+Added Pin To Net: NetName=GND Pin=MCP2551_1-2
+Added Pin To Net: NetName=GND Pin=Power_Encoder-2
+Added Pin To Net: NetName=GND Pin=SW_SPRD_TMC-1
+Added Pin To Net: NetName=GND Pin=TMC1-1
+Added Pin To Net: NetName=GND Pin=TMC1-7
+Added Pin To Net: NetName=GND Pin=TMC1-14
+Added Pin To Net: NetName=GND Pin=TMC1-15
+Added Pin To Net: NetName=GND Pin=VL BL-5
+Added Pin To Net: NetName=GND Pin=VL BR-5
+Added Pin To Net: NetName=GND Pin=VL FL-5
+Added Pin To Net: NetName=GND Pin=VL FR-5
+Added Net: Name=GND
+Added Pin To Net: NetName=I2C_0_SCL Pin=Actuators-NUC-H7-224
+Added Net: Name=I2C_0_SCL
+Added Pin To Net: NetName=I2C_0_SDA Pin=Actuators-NUC-H7-226
+Added Net: Name=I2C_0_SDA
+Added Pin To Net: NetName=I2C_1_SCL Pin=VL FR-3
+Added Net: Name=I2C_1_SCL
+Added Pin To Net: NetName=I2C_1_SDA Pin=VL FR-4
+Added Net: Name=I2C_1_SDA
+Added Pin To Net: NetName=I2C_2_SCL Pin=VL FL-3
+Added Net: Name=I2C_2_SCL
+Added Pin To Net: NetName=I2C_2_SDA Pin=VL FL-4
+Added Net: Name=I2C_2_SDA
+Added Pin To Net: NetName=I2C_3_SCL Pin=VL BR-3
+Added Net: Name=I2C_3_SCL
+Added Pin To Net: NetName=I2C_3_SDA Pin=VL BR-4
+Added Net: Name=I2C_3_SDA
+Added Pin To Net: NetName=I2C_4_SCL Pin=VL BL-3
+Added Net: Name=I2C_4_SCL
+Added Pin To Net: NetName=I2C_4_SDA Pin=VL BL-4
+Added Net: Name=I2C_4_SDA
+Added Pin To Net: NetName=Lifting_DIR_Pin Pin=Actuators-NUC-H7-167
+Added Pin To Net: NetName=Lifting_DIR_Pin Pin=H-Bridge_lifitng-2
+Added Net: Name=Lifting_DIR_Pin
+Added Pin To Net: NetName=Lifting_PWM_Pin Pin=Actuators-NUC-H7-175
+Added Pin To Net: NetName=Lifting_PWM_Pin Pin=H-Bridge_lifitng-1
+Added Net: Name=Lifting_PWM_Pin
+Added Pin To Net: NetName=LM1_PIN Pin=Actuators-NUC-H7-199
+Added Pin To Net: NetName=LM1_PIN Pin=LIMIT_SW1-1
+Added Pin To Net: NetName=LM1_PIN Pin=R1-2
+Added Net: Name=LM1_PIN
+Added Pin To Net: NetName=LM2_PIN Pin=Actuators-NUC-H7-162
+Added Pin To Net: NetName=LM2_PIN Pin=LIMIT_SW2-1
+Added Pin To Net: NetName=LM2_PIN Pin=R3-2
+Added Net: Name=LM2_PIN
+Added Pin To Net: NetName=LM3_PIN Pin=Actuators-NUC-H7-164
+Added Pin To Net: NetName=LM3_PIN Pin=LIMIT_SW3-1
+Added Pin To Net: NetName=LM3_PIN Pin=R4-2
+Added Net: Name=LM3_PIN
+Added Pin To Net: NetName=LM4_PIN Pin=Actuators-NUC-H7-166
+Added Pin To Net: NetName=LM4_PIN Pin=LIMIT_SW4-1
+Added Pin To Net: NetName=LM4_PIN Pin=R5-2
+Added Net: Name=LM4_PIN
+Added Pin To Net: NetName=MOTOR_CCW_Pin Pin=Actuators-NUC-H7-169
+Added Pin To Net: NetName=MOTOR_CCW_Pin Pin=Brake_Motor-2
+Added Net: Name=MOTOR_CCW_Pin
+Added Pin To Net: NetName=MOTOR_CW_Pin Pin=Actuators-NUC-H7-163
+Added Pin To Net: NetName=MOTOR_CW_Pin Pin=Brake_Motor-1
+Added Net: Name=MOTOR_CW_Pin
+Added Pin To Net: NetName=Net3.3V_in_1 Pin=3.3V_in-1
+Added Pin To Net: NetName=Net3.3V_in_1 Pin=SW_Main_Power_3.3V-3
+Added Net: Name=Net3.3V_in_1
+Added Pin To Net: NetName=Net5V_1 Pin=5V-1
+Added Pin To Net: NetName=Net5V_1 Pin=SW_Main_Power_5V-3
+Added Net: Name=Net5V_1
+Added Pin To Net: NetName=NetActuators-NUC-H7_154 Pin=Actuators-NUC-H7-154
+Added Pin To Net: NetName=NetActuators-NUC-H7_154 Pin=R2(1k)-2
+Added Net: Name=NetActuators-NUC-H7_154
+Added Pin To Net: NetName=NetActuators-NUC-H7_159 Pin=Actuators-NUC-H7-159
+Added Pin To Net: NetName=NetActuators-NUC-H7_159 Pin=SW_Power_STMH7-2
+Added Net: Name=NetActuators-NUC-H7_159
+Added Pin To Net: NetName=NetCANH/L0_1 Pin=CANH/L0-1
+Added Pin To Net: NetName=NetCANH/L0_1 Pin=CANH/L_High_Level-1
+Added Pin To Net: NetName=NetCANH/L0_1 Pin=CANH/L_OD_1-1
+Added Pin To Net: NetName=NetCANH/L0_1 Pin=CANH/L_OD_2-1
+Added Pin To Net: NetName=NetCANH/L0_1 Pin=MCP2551_1-7
+Added Net: Name=NetCANH/L0_1
+Added Pin To Net: NetName=NetCANH/L0_2 Pin=CANH/L0-2
+Added Pin To Net: NetName=NetCANH/L0_2 Pin=CANH/L_High_Level-2
+Added Pin To Net: NetName=NetCANH/L0_2 Pin=CANH/L_OD_1-2
+Added Pin To Net: NetName=NetCANH/L0_2 Pin=CANH/L_OD_2-2
+Added Pin To Net: NetName=NetCANH/L0_2 Pin=MCP2551_1-6
+Added Net: Name=NetCANH/L0_2
+Added Pin To Net: NetName=NetF1_2 Pin=F1-2
+Added Pin To Net: NetName=NetF1_2 Pin=SW_Main_Power_3.3V-2
+Added Net: Name=NetF1_2
+Added Pin To Net: NetName=NetF2_2 Pin=F2-2
+Added Pin To Net: NetName=NetF2_2 Pin=SW_Main_Power_5V-2
+Added Net: Name=NetF2_2
+Added Pin To Net: NetName=NetJ1_20 Pin=SW_Power_UWB-2
+Added Net: Name=NetJ1_20
+Added Pin To Net: NetName=NetMotor_1_A_Phase_1 Pin=Motor_1_A_Phase-1
+Added Pin To Net: NetName=NetMotor_1_A_Phase_1 Pin=TMC1-5
+Added Net: Name=NetMotor_1_A_Phase_1
+Added Pin To Net: NetName=NetMotor_1_A_Phase_2 Pin=Motor_1_A_Phase-2
+Added Pin To Net: NetName=NetMotor_1_A_Phase_2 Pin=Motor_2_A_Phase-1
+Added Net: Name=NetMotor_1_A_Phase_2
+Added Pin To Net: NetName=NetMotor_1_B_Phase_1 Pin=Motor_1_B_Phase-1
+Added Pin To Net: NetName=NetMotor_1_B_Phase_1 Pin=TMC1-4
+Added Net: Name=NetMotor_1_B_Phase_1
+Added Pin To Net: NetName=NetMotor_1_B_Phase_2 Pin=Motor_1_B_Phase-2
+Added Pin To Net: NetName=NetMotor_1_B_Phase_2 Pin=Motor_2_B_Phase-1
+Added Net: Name=NetMotor_1_B_Phase_2
+Added Pin To Net: NetName=NetMotor_2_A_Phase_2 Pin=Motor_2_A_Phase-2
+Added Pin To Net: NetName=NetMotor_2_A_Phase_2 Pin=TMC1-6
+Added Net: Name=NetMotor_2_A_Phase_2
+Added Pin To Net: NetName=NetMotor_2_B_Phase_2 Pin=Motor_2_B_Phase-2
+Added Pin To Net: NetName=NetMotor_2_B_Phase_2 Pin=TMC1-3
+Added Net: Name=NetMotor_2_B_Phase_2
+Added Pin To Net: NetName=NetSW_SPRD_TMC_2 Pin=SW_SPRD_TMC-2
+Added Pin To Net: NetName=NetSW_SPRD_TMC_2 Pin=TMC1-13
+Added Net: Name=NetSW_SPRD_TMC_2
+Added Pin To Net: NetName=PA2 Pin=Actuators-NUC-H7-221
+Added Pin To Net: NetName=PA2 Pin=BRO_4-2
+Added Net: Name=PA2
+Added Pin To Net: NetName=PA8 Pin=Actuators-NUC-H7-214
+Added Pin To Net: NetName=PA8 Pin=BRO_10-1
+Added Net: Name=PA8
+Added Pin To Net: NetName=PB0 Pin=Actuators-NUC-H7-241
+Added Pin To Net: NetName=PB0 Pin=BRO_6-2
+Added Net: Name=PB0
+Added Pin To Net: NetName=PB2 Pin=Actuators-NUC-H7-225
+Added Pin To Net: NetName=PB2 Pin=BRO_5-1
+Added Net: Name=PB2
+Added Pin To Net: NetName=PB10 Pin=Actuators-NUC-H7-242
+Added Pin To Net: NetName=PB10 Pin=BRO_7-2
+Added Net: Name=PB10
+Added Pin To Net: NetName=PB11 Pin=Actuators-NUC-H7-244
+Added Pin To Net: NetName=PB11 Pin=BRO_7-1
+Added Net: Name=PB11
+Added Pin To Net: NetName=PD11 Pin=Actuators-NUC-H7-233
+Added Pin To Net: NetName=PD11 Pin=BRO_6-1
+Added Net: Name=PD11
+Added Pin To Net: NetName=PD12 Pin=Actuators-NUC-H7-231
+Added Pin To Net: NetName=PD12 Pin=BRO_5-3
+Added Net: Name=PD12
+Added Pin To Net: NetName=PD13 Pin=Actuators-NUC-H7-229
+Added Pin To Net: NetName=PD13 Pin=BRO_5-2
+Added Net: Name=PD13
+Added Pin To Net: NetName=PD15 Pin=Actuators-NUC-H7-208
+Added Pin To Net: NetName=PD15 Pin=BRO_11-3
+Added Net: Name=PD15
+Added Pin To Net: NetName=PE0 Pin=Actuators-NUC-H7-243
+Added Pin To Net: NetName=PE0 Pin=BRO_6-3
+Added Net: Name=PE0
+Added Pin To Net: NetName=PE3 Pin=Actuators-NUC-H7-182
+Added Pin To Net: NetName=PE3 Pin=BRO_3-1
+Added Net: Name=PE3
+Added Pin To Net: NetName=PE4 Pin=Actuators-NUC-H7-176
+Added Pin To Net: NetName=PE4 Pin=BRO_2-1
+Added Net: Name=PE4
+Added Pin To Net: NetName=PE5 Pin=Actuators-NUC-H7-178
+Added Pin To Net: NetName=PE5 Pin=BRO_2-2
+Added Net: Name=PE5
+Added Pin To Net: NetName=PE6 Pin=Actuators-NUC-H7-180
+Added Pin To Net: NetName=PE6 Pin=BRO_2-3
+Added Net: Name=PE6
+Added Pin To Net: NetName=PE7 Pin=Actuators-NUC-H7-230
+Added Pin To Net: NetName=PE7 Pin=BRO_8-1
+Added Net: Name=PE7
+Added Pin To Net: NetName=PE8 Pin=Actuators-NUC-H7-228
+Added Pin To Net: NetName=PE8 Pin=BRO_9-3
+Added Net: Name=PE8
+Added Pin To Net: NetName=PE10 Pin=Actuators-NUC-H7-234
+Added Pin To Net: NetName=PE10 Pin=BRO_8-2
+Added Net: Name=PE10
+Added Pin To Net: NetName=PE11 Pin=Actuators-NUC-H7-216
+Added Pin To Net: NetName=PE11 Pin=BRO_10-2
+Added Net: Name=PE11
+Added Pin To Net: NetName=PE12 Pin=Actuators-NUC-H7-236
+Added Pin To Net: NetName=PE12 Pin=BRO_8-3
+Added Net: Name=PE12
+Added Pin To Net: NetName=PE13 Pin=Actuators-NUC-H7-220
+Added Pin To Net: NetName=PE13 Pin=BRO_9-1
+Added Net: Name=PE13
+Added Pin To Net: NetName=PE14 Pin=Actuators-NUC-H7-218
+Added Pin To Net: NetName=PE14 Pin=BRO_10-3
+Added Net: Name=PE14
+Added Pin To Net: NetName=PE15 Pin=Actuators-NUC-H7-240
+Added Pin To Net: NetName=PE15 Pin=BRO_7-3
+Added Net: Name=PE15
+Added Pin To Net: NetName=PF6 Pin=Actuators-NUC-H7-217
+Added Pin To Net: NetName=PF6 Pin=BRO_3-3
+Added Net: Name=PF6
+Added Pin To Net: NetName=PF8 Pin=Actuators-NUC-H7-184
+Added Pin To Net: NetName=PF8 Pin=BRO_3-2
+Added Net: Name=PF8
+Added Pin To Net: NetName=PF10 Pin=Actuators-NUC-H7-219
+Added Pin To Net: NetName=PF10 Pin=BRO_4-1
+Added Net: Name=PF10
+Added Pin To Net: NetName=PG6 Pin=Actuators-NUC-H7-223
+Added Pin To Net: NetName=PG6 Pin=BRO_4-3
+Added Net: Name=PG6
+Added Pin To Net: NetName=PG9 Pin=Actuators-NUC-H7-210
+Added Pin To Net: NetName=PG9 Pin=BRO_11-2
+Added Net: Name=PG9
+Added Pin To Net: NetName=PG12 Pin=Actuators-NUC-H7-212
+Added Pin To Net: NetName=PG12 Pin=BRO_11-1
+Added Net: Name=PG12
+Added Pin To Net: NetName=Servo Pin=Actuators-NUC-H7-191
+Added Net: Name=Servo
+Added Pin To Net: NetName=TMC_Dir Pin=Actuators-NUC-H7-203
+Added Pin To Net: NetName=TMC_Dir Pin=TMC1-9
+Added Net: Name=TMC_Dir
+Added Pin To Net: NetName=TMC_EN Pin=Actuators-NUC-H7-186
+Added Pin To Net: NetName=TMC_EN Pin=TMC1-16
+Added Net: Name=TMC_EN
+Added Pin To Net: NetName=TMC_Step Pin=Actuators-NUC-H7-209
+Added Pin To Net: NetName=TMC_Step Pin=TMC1-10
+Added Net: Name=TMC_Step
+Added Pin To Net: NetName=TMC_UART Pin=Actuators-NUC-H7-197
+Added Pin To Net: NetName=TMC_UART Pin=R2(1k)-1
+Added Pin To Net: NetName=TMC_UART Pin=TMC1-12
+Added Net: Name=TMC_UART
+Added Class: Name=Actuators_Schematic
+Added Class: Name=Sensors_Schematic
+Added Class: Name=STM32H755_Breakout_Schematic

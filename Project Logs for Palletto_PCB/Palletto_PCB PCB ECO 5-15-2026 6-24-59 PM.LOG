@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Encoder B Pin=Actuators-NUC-H7-205
+Removed Pin From Net: NetName=Encoder A Pin=Actuators-NUC-H7-239
+Added Pin To Net: NetName=Encoder B Pin=Actuators-NUC-H7-201
+Added Pin To Net: NetName=Encoder A Pin=Actuators-NUC-H7-202

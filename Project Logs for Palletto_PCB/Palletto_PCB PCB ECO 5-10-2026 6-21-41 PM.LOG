@@ -1,0 +1,39 @@
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Added Component: Designator=R2(1k)(FP-FMP100-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "Conformal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Metal Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "2.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "6.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8533210090, 8533210090"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=TMC1-14
+Added Pin To Net: NetName=GND Pin=TMC1-15
+Change Net Name : Old Net Name=NetSW?_2 New Net Name=NetSW1_2
+Added Pin To Net: NetName=NetActuators-NUC-H7_154 Pin=Actuators-NUC-H7-154
+Added Pin To Net: NetName=NetActuators-NUC-H7_154 Pin=R2(1k)-2
+Added Net: Name=NetActuators-NUC-H7_154
+Added Pin To Net: NetName=TMC_Dir Pin=Actuators-NUC-H7-203
+Added Pin To Net: NetName=TMC_Dir Pin=TMC1-9
+Added Net: Name=TMC_Dir
+Added Pin To Net: NetName=TMC_EN Pin=Actuators-NUC-H7-186
+Added Pin To Net: NetName=TMC_EN Pin=TMC1-16
+Added Net: Name=TMC_EN
+Added Pin To Net: NetName=TMC_Step Pin=Actuators-NUC-H7-209
+Added Pin To Net: NetName=TMC_Step Pin=TMC1-10
+Added Net: Name=TMC_Step
+Added Pin To Net: NetName=TMC_UART Pin=Actuators-NUC-H7-197
+Added Pin To Net: NetName=TMC_UART Pin=R2(1k)-1
+Added Pin To Net: NetName=TMC_UART Pin=TMC1-12
+Added Net: Name=TMC_UART
+Added Member To Class: ClassName=STM32H755_Breakout_Schematic Member=Component R2(1k) FMP100JT-52-1K

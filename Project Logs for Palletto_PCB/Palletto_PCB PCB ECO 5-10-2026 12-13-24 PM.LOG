@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=3.3 V Pin=1-NUC-H7-151
+Added Component: Designator=3.3V_IN(CONN-TH_P5.00_KF126-5.0-2P)
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474900"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3 V Pin=3.3V_IN-1
+Added Pin To Net: NetName=GND Pin=3.3V_IN-2
+Added Member To Class: ClassName=STM32H755_Breakout_Schematic Member=Component 3.3V_IN

@@ -1,0 +1,33 @@
+Removed Member From Class: ClassName=STM32H755_Breakout_Schematic Member=VL 1
+Added Component: Designator=VL BL(VL53L1X_BREAKOUT)
+Add component (AddParameter): Name = "Contributor"; Value = "freddyka"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "VL53L0X Time-of-Flight Distance Sensor VL53L0X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "VL53L1X_BREAKOUT COPY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VL BR(VL53L1X_BREAKOUT)
+Add component (AddParameter): Name = "Contributor"; Value = "freddyka"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "VL53L0X Time-of-Flight Distance Sensor VL53L0X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "VL53L1X_BREAKOUT COPY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VL FL(VL53L1X_BREAKOUT)
+Add component (AddParameter): Name = "Contributor"; Value = "freddyka"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "VL53L0X Time-of-Flight Distance Sensor VL53L0X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "VL53L1X_BREAKOUT COPY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VL FR(VL53L1X_BREAKOUT)
+Add component (AddParameter): Name = "Contributor"; Value = "freddyka"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "VL53L0X Time-of-Flight Distance Sensor VL53L0X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "VL53L1X_BREAKOUT COPY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sensors_Schematic Member=Component VL BL VL53L1X
+Added Member To Class: ClassName=Sensors_Schematic Member=Component VL BR VL53L1X
+Added Member To Class: ClassName=Sensors_Schematic Member=Component VL FL VL53L1X
+Added Member To Class: ClassName=Sensors_Schematic Member=Component VL FR VL53L1X

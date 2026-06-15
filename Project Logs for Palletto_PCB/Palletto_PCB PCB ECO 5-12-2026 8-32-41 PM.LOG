@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=CAN1_RX Pin=Actuators-NUC-H7-185
+Removed Pin From Net: NetName=CAN1_TX Pin=Actuators-NUC-H7-187
+Removed Pin From Net: NetName=NetCANH/L2_2 Pin=R6-1
+Removed Pin From Net: NetName=NetCANH/L2_1 Pin=R6-2
+Removed Member From Class: ClassName=Actuators_Schematic Member=R2
+Removed Member From Class: ClassName=Actuators_Schematic Member=R6
+Change Component Designator: OldDesignator=CANH/L2 NewDesignator=CANH/L_OD_1
+Change Component Designator: OldDesignator=CANH/L3 NewDesignator=CANH/L_OD_2
+Change Component Designator: OldDesignator=MCP? NewDesignator=MCP2551_1
+Added Pin To Net: NetName=NetCANH/L2_1 Pin=CANH/L0-1
+Added Pin To Net: NetName=NetCANH/L2_2 Pin=CANH/L0-2
+Added Pin To Net: NetName=CAN1_TX Pin=J1-13
+Added Pin To Net: NetName=CAN1_RX Pin=J1-14
+Added Pin To Net: NetName=NetCANH/L2_2 Pin=MCP2551_1-6
+Added Pin To Net: NetName=NetCANH/L2_1 Pin=MCP2551_1-7
+Change Net Name : Old Net Name=NetCANH/L2_1 New Net Name=NetCANH/L0_1
+Change Net Name : Old Net Name=NetCANH/L2_2 New Net Name=NetCANH/L0_2
+Added Member To Class: ClassName=Actuators_Schematic Member=Component 3.3V_O/P 3P-Terminal

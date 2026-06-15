@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=MPU6050-5
+Removed Pin From Net: NetName=3.3 V Pin=MPU6050-6
+Removed Member From Class: ClassName=Sensors_Schematic Member=MPU6050
+Added Pin To Net: NetName=GND Pin=5V_in-2
+Added Pin To Net: NetName=ADC_CURRENT_SENSOR Pin=1-NUC-H7-161
+Added Pin To Net: NetName=ADC_CURRENT_SENSOR Pin=CRR_SEN-2
+Added Net: Name=ADC_CURRENT_SENSOR

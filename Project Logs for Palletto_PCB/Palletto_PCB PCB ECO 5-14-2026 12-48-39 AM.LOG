@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=CANH/L_HL NewDesignator=CANH/L_High_Level
+Change Component Designator: OldDesignator=H-Bridge_L NewDesignator=H-Bridge_lifitng
+Change Component Designator: OldDesignator=L_SW1 NewDesignator=LIMIT_SW1
+Change Component Designator: OldDesignator=L_SW2 NewDesignator=LIMIT_SW2
+Change Component Designator: OldDesignator=L_SW3 NewDesignator=LIMIT_SW3
+Change Component Designator: OldDesignator=L_SW4 NewDesignator=LIMIT_SW4
+Change Component Designator: OldDesignator=M_1_A NewDesignator=Motor_1_A_Phase
+Change Component Designator: OldDesignator=M_1_B NewDesignator=Motor_1_B_Phase
+Change Component Designator: OldDesignator=M_2_A NewDesignator=Motor_2_A_Phase
+Change Component Designator: OldDesignator=M_2_B NewDesignator=Motor_2_B_Phase
+Added Pin To Net: NetName=GND Pin=Actuators-NUC-H7-157
+Added Pin To Net: NetName=GND Pin=Actuators-NUC-H7-172
+Added Pin To Net: NetName=GND Pin=Actuators-NUC-H7-183
+Added Pin To Net: NetName=GND Pin=Actuators-NUC-H7-198
+Added Pin To Net: NetName=GND Pin=Actuators-NUC-H7-215
+Added Pin To Net: NetName=GND Pin=Actuators-NUC-H7-232
+Added Pin To Net: NetName=GND Pin=J1-37
+Added Pin To Net: NetName=GND Pin=J1-38

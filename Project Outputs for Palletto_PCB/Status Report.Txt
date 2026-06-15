@@ -1,0 +1,40 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [Palletto_PCB.PrjPcb]
+   Generated File[Palletto_V2.GTL]
+   Generated File[Palletto_V2.GBL]
+   Generated File[Palletto_V2.GPB]
+   Generated File[Palletto_V2.GPT]
+   Generated File[Palletto_V2.GTO]
+   Generated File[Palletto_V2.GBO]
+   Generated File[Palletto_V2.GTS]
+   Generated File[Palletto_V2.GBS]
+   Generated File[Palletto_V2.GTP]
+   Generated File[Palletto_V2.GBP]
+   Generated File[Palletto_V2.GKO]
+   Generated File[Palletto_V2.GM1]
+   Generated File[Palletto_V2.GM3]
+   Generated File[Palletto_V2.GM4]
+   Generated File[Palletto_V2.GM5]
+   Generated File[Palletto_V2.GM11]
+   Generated File[Palletto_V2.GM12]
+   Generated File[Palletto_V2.GM13]
+   Generated File[Palletto_V2.GM15]
+   Generated File[Palletto_V2.GM16]
+   Generated File[Palletto_V2.GM20]
+   Generated File[Palletto_V2.GM21]
+   Generated File[Palletto_V2.GM23]
+   Generated File[Palletto_V2.GM24]
+   Generated File[Palletto_V2.GM]
+   Generated File[Palletto_V2.GBR1]
+   Generated File[Palletto_V2.GBR2]
+   Generated File[Palletto_V2.GD1]
+   Generated File[Palletto_V2.GG1]
+   Generated File[Palletto_V2.EXTREP]
+   Generated File[Palletto_V2.REP]
+
+
+Files Generated   : 31
+Documents Printed : 0
+
+Finished Output Generation At 7:55:36 PM On 6/8/2026
