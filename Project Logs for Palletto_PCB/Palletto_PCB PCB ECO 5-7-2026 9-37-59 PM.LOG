@@ -1,0 +1,21 @@
+Removed Member From Class: ClassName=Sensors_Schematic Member=VL
+Added Component: Designator=CONN_8DIP(DIP 8 PIN SOCKET)
+Add component (AddParameter): Name = "Contributor"; Value = "uniqengineeringworks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "8 PIN DIP SOCKET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CONN-TH_P5.00_KF126-5.0-2P
+Add Component: Footprint Not Found CURRENT-SENSOR-ACS712#IC
+Add Component: Footprint Not Found CONN-TH_3P-P5.00_KF126-5.0-3P
+Add Component: Footprint Not Found COMM-TH_MPU6050-TH
+Add Component: Footprint Not Found COMM-TH_TMC2209SILENTSTEPSTICK
+Added Member To Class: ClassName=Sensors_Schematic Member=Component CONN_8DIP 8 PIN DIP SOCKET
+Add Class Member: Failed to add class member : Component CONN KF126-5.0-2P
+Add Class Member: Failed to add class member : Component CRR_SEN CURRENT-SENSOR-ACS712#IC
+Add Class Member: Failed to add class member : Component LIMIT_SW Limit Switch
+Add Class Member: Failed to add class member : Component MPU6050 MPU6050-TH COPY
+Add Class Member: Failed to add class member : Component TMC TMC2209 Socket

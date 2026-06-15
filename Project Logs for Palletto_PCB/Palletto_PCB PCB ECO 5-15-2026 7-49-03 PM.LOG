@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=PB0 Pin=BRO_6-2
+Removed Pin From Net: NetName=PE0 Pin=BRO_6-3
+Added Component: Designator=BRO_12(CONN-TH_P5.00_KF126-5.0-2P)
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474900"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PB0 Pin=BRO_12-1
+Added Pin To Net: NetName=PE0 Pin=BRO_12-2
+Added Pin To Net: NetName=PA0 Pin=Actuators-NUC-H7-239
+Added Pin To Net: NetName=PA0 Pin=BRO_6-3
+Added Net: Name=PA0
+Added Pin To Net: NetName=PE2 Pin=Actuators-NUC-H7-235
+Added Pin To Net: NetName=PE2 Pin=BRO_6-2
+Added Net: Name=PE2
+Added Member To Class: ClassName=Actuators_Schematic Member=Component BRO_12 KF126-5.0-2P

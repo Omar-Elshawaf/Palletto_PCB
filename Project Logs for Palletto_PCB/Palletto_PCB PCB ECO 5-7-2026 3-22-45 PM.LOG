@@ -1,0 +1,12 @@
+Change component parameters: Designator = "U1" ("U1"); Footprint = "WIRELM-SMD_BU04"; UniqueID = "\AORJOZHR" ("\AORJOZHR")
+Change component parameters (AddParameter): Name = "Contributor"; Value = "lcsc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Ai-Thinker(???)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "BU04"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "BU04"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C42420050"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OffSheet Pin=J1_30_Female Pin headers-2
+Added Pin To Net: NetName=OffSheet Pin=U1-34
+Added Net: Name=OffSheet

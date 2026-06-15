@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=5V_In NewDesignator=5V
+Change Component Designator: OldDesignator=12V_In NewDesignator=12V
+Change Component Designator: OldDesignator=M_1_A NewDesignator=Motor_1_A_Phase
+Change Component Designator: OldDesignator=M_1_B NewDesignator=Motor_1_B_Phase
+Change Component Designator: OldDesignator=M_2_A NewDesignator=Motor_2_A_Phase
+Change Component Designator: OldDesignator=M_2_B NewDesignator=Motor_2_B_Phase
+Added Pin To Net: NetName=NetGreen_LED_5V_1 Pin=Green_LED_5V-1
+Added Pin To Net: NetName=NetGreen_LED_5V_1 Pin=R7-2
+Added Net: Name=NetGreen_LED_5V_1

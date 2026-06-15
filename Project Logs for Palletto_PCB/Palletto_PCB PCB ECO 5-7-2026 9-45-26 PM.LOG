@@ -1,0 +1,16 @@
+Add Component: Footprint Not Found CURRENT-SENSOR-ACS712#IC
+Added Component: Designator=LIMIT_SW(CONN-TH_3P-P5.00_KF126-5.0-3P)
+Add component (AddParameter): Name = "Contributor"; Value = "thulasikrishna"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474901"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found COMM-TH_MPU6050-TH
+Add Component: Footprint Not Found COMM-TH_TMC2209SILENTSTEPSTICK
+Add Class Member: Failed to add class member : Component CRR_SEN CURRENT-SENSOR-ACS712#IC
+Added Member To Class: ClassName=Sensors_Schematic Member=Component LIMIT_SW Limit Switch
+Add Class Member: Failed to add class member : Component MPU6050 MPU6050-TH COPY
+Add Class Member: Failed to add class member : Component TMC TMC2209 Socket

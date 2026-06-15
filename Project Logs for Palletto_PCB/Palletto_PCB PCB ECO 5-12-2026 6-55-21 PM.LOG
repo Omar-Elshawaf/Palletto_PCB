@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=3.3V_O/P NewDesignator=3.3V_O/P_1
+Added Member To Class: ClassName=Actuators_Schematic Member=Component 3.3V_O/P_1 KF126-5.0-2P

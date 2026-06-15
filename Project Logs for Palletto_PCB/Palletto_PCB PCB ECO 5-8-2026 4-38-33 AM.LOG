@@ -1,0 +1,61 @@
+Removed Member From Class: ClassName=STM32H755_Breakout_Schematic Member=R2
+Added Component: Designator=CANH/L2(CONN-TH_P5.00_KF126-5.0-2P)
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474900"; VariantName = "[No Variations]"
+Added Component: Designator=CANH/L3(CONN-TH_P5.00_KF126-5.0-2P)
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474900"; VariantName = "[No Variations]"
+Added Component: Designator=CANH/L_High_Level(CONN-TH_P5.00_KF126-5.0-2P)
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474900"; VariantName = "[No Variations]"
+Added Component: Designator=R?(FP-MRS1600-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "Conformal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Cylindrical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "400mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "120R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Thin Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "MRS16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "THIN FILM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "50ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.6mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCANH/L2_1 Pin=CANH/L2-1
+Added Pin To Net: NetName=NetCANH/L2_1 Pin=CANH/L3-1
+Added Pin To Net: NetName=NetCANH/L2_1 Pin=CANH/L_High_Level-1
+Added Pin To Net: NetName=NetCANH/L2_1 Pin=R?-2
+Added Net: Name=NetCANH/L2_1
+Added Pin To Net: NetName=NetCANH/L2_2 Pin=CANH/L2-2
+Added Pin To Net: NetName=NetCANH/L2_2 Pin=CANH/L3-2
+Added Pin To Net: NetName=NetCANH/L2_2 Pin=CANH/L_High_Level-2
+Added Pin To Net: NetName=NetCANH/L2_2 Pin=R?-1
+Added Net: Name=NetCANH/L2_2
+Added Member To Class: ClassName=Actuators_Schematic Member=Component CANH/L2 KF126-5.0-2P
+Added Member To Class: ClassName=Actuators_Schematic Member=Component CANH/L3 KF126-5.0-2P
+Added Member To Class: ClassName=Actuators_Schematic Member=Component CANH/L_High_Level KF126-5.0-2P
+Added Member To Class: ClassName=Actuators_Schematic Member=Component R? 120 Ohm

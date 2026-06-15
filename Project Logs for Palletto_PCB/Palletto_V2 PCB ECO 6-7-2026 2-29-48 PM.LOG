@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=CAN1_TX Pin=J1-13
+Removed Pin From Net: NetName=CAN1_RX Pin=J1-14
+Removed Pin From Net: NetName=UWB_SDA Pin=J1-15
+Removed Pin From Net: NetName=UWB_SCL Pin=J1-16
+Removed Pin From Net: NetName=GND Pin=J1-18
+Removed Pin From Net: NetName=UWB_MISO Pin=J1-27
+Removed Pin From Net: NetName=UWB_MOSI Pin=J1-28
+Removed Pin From Net: NetName=GND Pin=J1-38
+Removed Member From Class: ClassName=Sensors_Schematic Member=J1
+Removed Member From Class: ClassName=Sensors_Schematic Member=J10
+Removed Member From Class: ClassName=Sensors_Schematic Member=J11
+Added Component: Designator=J12(BU04_KIT)
+Add Pin To Net: Unknown Pin: Pin J12-2
+Add Pin To Net: Unknown Pin: Pin J12-3
+Add Pin To Net: Unknown Pin: Pin J12-7
+Add Pin To Net: Unknown Pin: Pin J12-8
+Add Pin To Net: Unknown Pin: Pin J12-20
+Add Pin To Net: Unknown Pin: Pin J12-21
+Add Pin To Net: Unknown Pin: Pin J12-34
+Add Pin To Net: Unknown Pin: Pin J12-35
+Added Pin To Net: NetName=NetJ12_19 Pin=SW_Power_UWB-2
+Added Net: Name=NetJ12_19
+Added Pin To Net: NetName=UWB_PB13 Pin=BRO_13-1
+Added Net: Name=UWB_PB13
+Added Pin To Net: NetName=UWB_PB14 Pin=BRO_13-2
+Added Net: Name=UWB_PB14
+Added Pin To Net: NetName=UWB_PB15 Pin=BRO_13-3
+Added Net: Name=UWB_PB15
+Add Class Member: Failed to add class member : Component J12 61302011821

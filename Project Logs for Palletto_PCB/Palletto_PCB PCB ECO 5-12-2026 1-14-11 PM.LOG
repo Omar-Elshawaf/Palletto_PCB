@@ -1,0 +1,36 @@
+Change Physical Footprint: Designator=3.3V_IN Old Footprint=CONN-TH_P5.00_KF126-5.0-2P New Footprint=CONN-TH_P5.00_KF126-5.0-2P
+Change Physical Footprint: Designator=3.3V_O/P Old Footprint=CONN-TH_P5.00_KF126-5.0-2P New Footprint=CONN-TH_P5.00_KF126-5.0-2P
+Change Physical Footprint: Designator=3P-Terminal-2 Old Footprint=CONN-TH_3P-P5.00_KF126-5.0-3P New Footprint=CONN-TH_3P-P5.00_KF126-5.0-3P
+Change Physical Footprint: Designator=3P-Terminal-3 Old Footprint=CONN-TH_3P-P5.00_KF126-5.0-3P New Footprint=CONN-TH_3P-P5.00_KF126-5.0-3P
+Change Physical Footprint: Designator=5V_in Old Footprint=CONN-TH_P5.00_KF126-5.0-2P New Footprint=CONN-TH_P5.00_KF126-5.0-2P
+Change Physical Footprint: Designator=Actuators-NUC-H7 Old Footprint=NUCLEO-H7 New Footprint=NUCLEO-H7
+Change Physical Footprint: Designator=Brake_Motor? Old Footprint=CONN-TH_P5.00_KF126-5.0-2P New Footprint=CONN-TH_P5.00_KF126-5.0-2P
+Change Physical Footprint: Designator=C1 Old Footprint=FP-RAD-TH-D_6_3_0_5-L_11-MFG New Footprint=FP-RAD-TH-D_6_3_0_5-L_11-MFG
+Change Physical Footprint: Designator=CANH/L Old Footprint=CONN-TH_P5.00_KF126-5.0-2P New Footprint=CONN-TH_P5.00_KF126-5.0-2P
+Change Physical Footprint: Designator=CANH/L2 Old Footprint=CONN-TH_P5.00_KF126-5.0-2P New Footprint=CONN-TH_P5.00_KF126-5.0-2P
+Change Physical Footprint: Designator=CANH/L3 Old Footprint=CONN-TH_P5.00_KF126-5.0-2P New Footprint=CONN-TH_P5.00_KF126-5.0-2P
+Change Physical Footprint: Designator=CANH/L_High_Level Old Footprint=CONN-TH_P5.00_KF126-5.0-2P New Footprint=CONN-TH_P5.00_KF126-5.0-2P
+Change Physical Footprint: Designator=CRR_SEN Old Footprint=CURRENT-SENSOR-ACS712#IC New Footprint=CURRENT-SENSOR-ACS712#IC
+Change Physical Footprint: Designator=Current_Sens_Hub_Motor Old Footprint=CONN-TH_P5.00_KF126-5.0-2P New Footprint=CONN-TH_P5.00_KF126-5.0-2P
+Change Physical Footprint: Designator=DAC Old Footprint=CONN-TH_P5.00_KF126-5.0-2P New Footprint=CONN-TH_P5.00_KF126-5.0-2P
+Change Physical Footprint: Designator=H-Bridge_lifitng Old Footprint=CONN-TH_3P-P5.00_KF126-5.0-3P New Footprint=CONN-TH_3P-P5.00_KF126-5.0-3P
+Change Physical Footprint: Designator=J1 Old Footprint=61302011821 New Footprint=61302011821
+Change Physical Footprint: Designator=LIMIT_SW1 Old Footprint=CONN-TH_P5.00_KF126-5.0-2P New Footprint=CONN-TH_P5.00_KF126-5.0-2P
+Change Physical Footprint: Designator=MCP2551_8DIP Old Footprint=DIP 8 PIN SOCKET New Footprint=DIP 8 PIN SOCKET
+Change Physical Footprint: Designator=Motor_1_A_Phase Old Footprint=CONN-TH_P5.00_KF126-5.0-2P New Footprint=CONN-TH_P5.00_KF126-5.0-2P
+Change Physical Footprint: Designator=Motor_1_B_Phase Old Footprint=CONN-TH_P5.00_KF126-5.0-2P New Footprint=CONN-TH_P5.00_KF126-5.0-2P
+Change Physical Footprint: Designator=Motor_2_A_Phase Old Footprint=CONN-TH_P5.00_KF126-5.0-2P New Footprint=CONN-TH_P5.00_KF126-5.0-2P
+Change Physical Footprint: Designator=Motor_2_B_Phase Old Footprint=CONN-TH_P5.00_KF126-5.0-2P New Footprint=CONN-TH_P5.00_KF126-5.0-2P
+Change Physical Footprint: Designator=Phases Encoder Old Footprint=CONN-TH_P5.00_KF126-5.0-2P New Footprint=CONN-TH_P5.00_KF126-5.0-2P
+Change Physical Footprint: Designator=Power_Encoder Old Footprint=CONN-TH_P5.00_KF126-5.0-2P New Footprint=CONN-TH_P5.00_KF126-5.0-2P
+Change Physical Footprint: Designator=R1 Old Footprint=FP-MFR-12-MFG New Footprint=FP-MFR-12-MFG
+Change Physical Footprint: Designator=R2 Old Footprint=FP-MRS1600-MFG New Footprint=FP-MRS1600-MFG
+Change Physical Footprint: Designator=R2(1k) Old Footprint=FP-FMP100-MFG New Footprint=FP-FMP100-MFG
+Change Physical Footprint: Designator=R? Old Footprint=FP-MRS1600-MFG New Footprint=FP-MRS1600-MFG
+Change Physical Footprint: Designator=SW1 Old Footprint=ESWI-EG1218_V New Footprint=ESWI-EG1218_V
+Change Physical Footprint: Designator=TMC1 Old Footprint=COMM-TH_TMC2209SILENTSTEPSTICK New Footprint=COMM-TH_TMC2209SILENTSTEPSTICK
+Change Physical Footprint: Designator=U1 Old Footprint=TCA9548A New Footprint=TCA9548A
+Change Physical Footprint: Designator=VL BL Old Footprint=VL53L1X_BREAKOUT New Footprint=VL53L1X_BREAKOUT
+Change Physical Footprint: Designator=VL BR Old Footprint=VL53L1X_BREAKOUT New Footprint=VL53L1X_BREAKOUT
+Change Physical Footprint: Designator=VL FL Old Footprint=VL53L1X_BREAKOUT New Footprint=VL53L1X_BREAKOUT
+Change Physical Footprint: Designator=VL FR Old Footprint=VL53L1X_BREAKOUT New Footprint=VL53L1X_BREAKOUT

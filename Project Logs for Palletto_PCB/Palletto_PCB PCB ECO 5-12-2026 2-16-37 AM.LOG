@@ -1,0 +1,20 @@
+Added Component: Designator=J4(61302011821)
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3 V Pin=J4-1
+Added Pin To Net: NetName=3.3 V Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=I2C_1_SCL Pin=U1-3
+Added Pin To Net: NetName=I2C_1_SDA Pin=U1-4
+Added Pin To Net: NetName=I2C_2_SCL Pin=U1-11
+Added Pin To Net: NetName=I2C_2_SDA Pin=U1-12
+Added Pin To Net: NetName=I2C_3_SCL Pin=U1-13
+Added Pin To Net: NetName=I2C_3_SDA Pin=U1-14
+Added Pin To Net: NetName=I2C_4_SCL Pin=U1-15
+Added Pin To Net: NetName=I2C_4_SDA Pin=U1-16
+Added Member To Class: ClassName=Sensors_Schematic Member=Component J4 61302011821

@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=UWB_SCL Pin=J25-2
+Added Pin To Net: NetName=UWB_SDA Pin=J25-3
+Added Pin To Net: NetName=CAN1_TX Pin=J25-7
+Added Pin To Net: NetName=CAN1_RX Pin=J25-8
+Added Pin To Net: NetName=GND Pin=J25-20
+Added Pin To Net: NetName=GND Pin=J25-21
+Added Pin To Net: NetName=UWB_PB15 Pin=J25-26
+Added Pin To Net: NetName=UWB_PB14 Pin=J25-27
+Added Pin To Net: NetName=UWB_PB13 Pin=J25-28
+Added Pin To Net: NetName=UWB_MOSI Pin=J25-34
+Added Pin To Net: NetName=UWB_MISO Pin=J25-35
+Added Pin To Net: NetName=NetJ25_19 Pin=J25-19
+Added Pin To Net: NetName=NetJ25_19 Pin=SW_Power_UWB-2
+Added Net: Name=NetJ25_19

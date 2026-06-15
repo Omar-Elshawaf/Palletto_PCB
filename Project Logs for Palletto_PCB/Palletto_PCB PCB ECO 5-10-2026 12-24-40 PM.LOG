@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=I2C_1_SCL Pin=1-NUC-H7-224
+Added Component: Designator=NUC_H7_2(NUCLEO-H7)
+Add component (AddParameter): Name = "Contributor"; Value = "zutawin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Display"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "NUCLEO-H755ZI-ZIO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DOLI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "100x"; VariantName = "[No Variations]"
+Added Pin To Net: NetName= I2C_1_SCL Pin=1-NUC-H7-224
+Added Net: Name= I2C_1_SCL
+Added Member To Class: ClassName=STM32H755_Breakout_Schematic Member=Component NUC_H7_2 NUCLEO-H755ZI-ZIO

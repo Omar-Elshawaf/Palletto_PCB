@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=I2C_1_SCL Pin=Actuators-NUC-H7-224
+Removed Pin From Net: NetName=I2C_1_SDA Pin=Actuators-NUC-H7-226
+Removed Pin From Net: NetName=I2C_1_SCL Pin=U1-3
+Removed Pin From Net: NetName=I2C_1_SDA Pin=U1-4
+Change Component Designator: OldDesignator=SW1 NewDesignator=SW_SPRD_TMC
+Added Pin To Net: NetName=I2C_1_SDA Pin=U1-9
+Added Pin To Net: NetName=I2C_1_SCL Pin=U1-10
+Change Net Name : Old Net Name=NetSW1_2 New Net Name=NetSW_SPRD_TMC_2
+Added Pin To Net: NetName=I2C_0_SCL Pin=Actuators-NUC-H7-224
+Added Pin To Net: NetName=I2C_0_SCL Pin=U1-3
+Added Net: Name=I2C_0_SCL
+Added Pin To Net: NetName=I2C_0_SDA Pin=Actuators-NUC-H7-226
+Added Pin To Net: NetName=I2C_0_SDA Pin=U1-4
+Added Net: Name=I2C_0_SDA

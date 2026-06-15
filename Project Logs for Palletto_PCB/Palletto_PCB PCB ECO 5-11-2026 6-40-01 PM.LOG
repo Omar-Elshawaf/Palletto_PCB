@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=3.3 V Pin=BNO0-3vo
+Removed Pin From Net: NetName=GND Pin=BNO0-GND
+Removed Pin From Net: NetName=I2C_1_SCL Pin=BNO0-SCL
+Removed Pin From Net: NetName=I2C_1_SDA Pin=BNO0-SDA
+Removed Pin From Net: NetName=GND Pin=TMC1-15
+Removed Member From Class: ClassName=Sensors_Schematic Member=BNO0
+Change Component Designator: OldDesignator=M1 NewDesignator=Servo_Motor
+Added Component: Designator=Current_Sens_Hub_Motor(CONN-TH_P5.00_KF126-5.0-2P)
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474900"; VariantName = "[No Variations]"
+Added Component: Designator=U1(TCA9548A)
+Add component (AddParameter): Name = "Contributor"; Value = "Dompie"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "link"; Value = "https://www.adafruit.com/product/2717"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "TCA9548A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TCA9548A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Adafruit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "2717"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=I2C_1_SCL Pin=VL FR-3
+Added Pin To Net: NetName=I2C_1_SDA Pin=VL FR-4
+Added Pin To Net: NetName=I2C_2_SCL Pin=VL FL-3
+Added Net: Name=I2C_2_SCL
+Added Pin To Net: NetName=I2C_2_SDA Pin=VL FL-4
+Added Net: Name=I2C_2_SDA
+Added Pin To Net: NetName=I2C_3_SCL Pin=VL BR-3
+Added Net: Name=I2C_3_SCL
+Added Pin To Net: NetName=I2C_3_SDA Pin=VL BR-4
+Added Net: Name=I2C_3_SDA
+Added Pin To Net: NetName=I2C_4_SCL Pin=VL BL-3
+Added Net: Name=I2C_4_SCL
+Added Pin To Net: NetName=I2C_4_SDA Pin=VL BL-4
+Added Net: Name=I2C_4_SDA
+Added Pin To Net: NetName=NetCRR_SEN_P1.1 Pin=CRR_SEN-P1.1
+Added Pin To Net: NetName=NetCRR_SEN_P1.1 Pin=Current_Sens_Hub_Motor-1
+Added Net: Name=NetCRR_SEN_P1.1
+Added Pin To Net: NetName=NetCRR_SEN_P1.2 Pin=CRR_SEN-P1.2
+Added Pin To Net: NetName=NetCRR_SEN_P1.2 Pin=Current_Sens_Hub_Motor-2
+Added Net: Name=NetCRR_SEN_P1.2
+Added Member To Class: ClassName=Sensors_Schematic Member=Component Current_Sens_Hub_Motor
+Added Member To Class: ClassName=Sensors_Schematic Member=Component U1 TCA9548A

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=LM2_PIN Pin=Actuators-NUC-H7-162
+Removed Pin From Net: NetName=LM1_PIN Pin=Actuators-NUC-H7-199
+Added Pin To Net: NetName=LM2_PIN Pin=Actuators-NUC-H7-204
+Added Pin To Net: NetName=LM1_PIN Pin=Actuators-NUC-H7-206

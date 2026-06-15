@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=GND Pin=LIMIT_SW1-3
+Change Component Footprint: Designator=LIMIT_SW1 Old Footprint=CONN-TH_3P-P5.00_KF126-5.0-3P New Footprint=CONN-TH_P5.00_KF126-5.0-2P
+Change Component Comment : Designator=LIMIT_SW1 Old Comment=Limit Switch New Comment=LIMIT_SW
+Change component parameters: Designator = "LIMIT_SW1" ("LIMIT_SW1"); Footprint = "CONN-TH_3P-P5.00_KF126-5.0-3P"; UniqueID = "\XLIHZMIK" ("\XLIHZMIK")
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C474900"; VariantName = "[No Variations]"
+Added Component: Designator=R1(FP-MFR-12-MFG)
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Ammo Pack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "160mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "200V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "200V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LIMIT_SW1-2
+Added Pin To Net: NetName=3.3 V Pin=R1-1
+Added Pin To Net: NetName=LM1_PIN Pin=1-NUC-H7-199
+Added Pin To Net: NetName=LM1_PIN Pin=LIMIT_SW1-1
+Added Pin To Net: NetName=LM1_PIN Pin=R1-2
+Added Net: Name=LM1_PIN
+Added Member To Class: ClassName=Sensors_Schematic Member=Component R1 10K

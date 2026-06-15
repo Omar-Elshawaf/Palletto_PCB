@@ -1,0 +1,6 @@
+Added Component: Designator=CRR_SEN(CURRENT-SENSOR-ACS712#IC)
+Add component (AddParameter): Name = "Contributor"; Value = "arenda1234"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "CURRENT-SENSOR-ACS712#IC"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sensors_Schematic Member=Component CRR_SEN CURRENT-SENSOR-ACS712#IC

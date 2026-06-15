@@ -1,0 +1,24 @@
+Change Component Footprint: Designator=J1_16_Female Pin headers Old Footprint=SMTC-HLE-108-02-X-DV-BE-A New Footprint=62201621821
+Change Component Footprint: Designator=J2_16_Female Pin headers Old Footprint=SMTC-HLE-108-02-X-DV-BE-A New Footprint=62201621821
+Change Component Comment : Designator=J1_16_Female Pin headers Old Comment=16 Female Pin headers New Comment=16_Female Pin headers
+Change Component Comment : Designator=J2_16_Female Pin headers Old Comment=16 Female Pin headers New Comment=16_Female Pin headers
+Change Managed Component Library Link : Designator=J1_16_Female Pin headers Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=CB46CFCE-E0E1-49D6-ADD7-9AAEE2FB7F85 New ItemGUID=54702405-0110-4DBA-B657-C8617C5E9CF6 Old RevisionGUID=BAF6D9EB-DE20-470E-820E-61066C926B3B New RevisionGUID=2AD3BACE-E9BF-47A7-A91B-AD3F73CB8861
+Change Managed Component Library Link : Designator=J2_16_Female Pin headers Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=CB46CFCE-E0E1-49D6-ADD7-9AAEE2FB7F85 New ItemGUID=54702405-0110-4DBA-B657-C8617C5E9CF6 Old RevisionGUID=BAF6D9EB-DE20-470E-820E-61066C926B3B New RevisionGUID=2AD3BACE-E9BF-47A7-A91B-AD3F73CB8861
+Change component parameters: Designator = "J1_16_Female Pin headers" ("J1_16_Female Pin headers"); Footprint = "SMTC-HLE-108-02-X-DV-BE-A"; UniqueID = "\MAASSFWC" ("\MAASSFWC")
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "1.27mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Non-Compliant"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2_16_Female Pin headers" ("J2_16_Female Pin headers"); Footprint = "SMTC-HLE-108-02-X-DV-BE-A"; UniqueID = "\PFBELNTG" ("\PFBELNTG")
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "1.27mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Non-Compliant"; VariantName = "[No Variations]"

@@ -1,0 +1,13 @@
+Added Component: Designator=DAC (CONN-TH_P5.00_KF126-5.0-2P)
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KF126-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C474900"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=DAC -2
+Added Pin To Net: NetName=DAC Pin=1-NUC-H7-207
+Added Pin To Net: NetName=DAC Pin=DAC -1
+Added Net: Name=DAC
+Added Member To Class: ClassName=Actuators_Schematic Member=Component DAC  KF126-5.0-2P

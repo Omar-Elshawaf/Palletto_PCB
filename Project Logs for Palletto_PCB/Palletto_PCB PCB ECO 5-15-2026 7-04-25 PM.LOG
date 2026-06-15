@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=TMC_EN Pin=Actuators-NUC-H7-186
+Added Pin To Net: NetName=TMC_EN Pin=Actuators-NUC-H7-148

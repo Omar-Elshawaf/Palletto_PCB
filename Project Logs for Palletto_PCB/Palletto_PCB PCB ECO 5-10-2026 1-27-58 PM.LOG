@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=1-NUC-H7 NewDesignator=Actuators-NUC-H7
+Change Component Designator: OldDesignator=NUC_H7_2 NewDesignator=Sensors_NUC_H7_2
+Added Pin To Net: NetName=Servo Pin=Actuators-NUC-H7-191
+Added Pin To Net: NetName=Servo Pin=M1-1
+Added Net: Name=Servo
